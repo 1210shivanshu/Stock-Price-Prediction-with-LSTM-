@@ -41,8 +41,6 @@ st.write(df[['Close']].head())
 
 st.write("Missing values in Close column:", df['Close'].isna().sum())
 
-# Display the line chart (Close prices)
-#st.line_chart(df['Close'])
 
 st.markdown("### 📊 Statistical Summary")
 st.write(df.describe())
