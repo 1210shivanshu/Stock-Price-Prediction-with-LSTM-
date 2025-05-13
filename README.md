@@ -36,7 +36,7 @@ Visualization: Matplotlib, Streamlit Charts
 bash
 Copy
 Edit
-git clone https://github.com/1210shivanshu/Stock-Price-Prediction-with-LSTM
+git clone https://github.com/1210shivanshu/Stock-Price-Prediction-with-LSTM-
 cd stock-prediction-lstm
 2. Create and Activate a Virtual Environment (Optional)
 bash
